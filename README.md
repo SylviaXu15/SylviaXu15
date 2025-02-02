@@ -2,7 +2,7 @@
 
 Welcome to my space! I’m Lixin (feel free to call me Sylvia).
 
-I am currently an undergraduate student at Peking University. I spent an amazing semester at Columbia University in Spring 2024, and was attracted by the GREAT NYC. Now I’m on track to pursue my master’s degree in the US!
+I am currently an undergraduate student at Peking University. I spent an amazing semester at Columbia University in Spring 2024, and was attracted by the amazing New York City. Now I’m on track to pursue my master’s degree in the US!
 
 I’m super passionate about becoming a ✨ _Quant Researcher_ ✨ – I live and breathe data, modeling, and algorithms. I grew through conducting diverse research in alpha generation, predictive modeling, and portfolio construction during my previous internships 🌱. My dream career? To work at the intersection of cutting-edge technology and finance, turning complex problems into elegant solutions. 🚀
 
